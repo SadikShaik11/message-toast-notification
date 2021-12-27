@@ -1,0 +1,26 @@
+#btn{
+    
+    color: black;
+    padding: 1rem;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+body{
+    background-color: cornflowerblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#di{
+    position: fixed;
+    bottom :0px;
+    right: 20px;
+
+}
+.msg{
+    background-color: aqua;
+    padding: 2rem;
+    align-items: center;
+    margin: 2rem;
+    border-radius: 2px;
+    border: 1px solid orange;
+}
